@@ -1,0 +1,4 @@
+D:\ХНУРЭ\ООП С++\ПЗ_5\test1\Debug\test1.vcxproj.AssemblyReference.cache
+D:\ХНУРЭ\ООП С++\ПЗ_5\test1\Debug\test1.exe
+D:\ХНУРЭ\ООП С++\ПЗ_5\test1\Debug\test1.MyForm.resources
+D:\ХНУРЭ\ООП С++\ПЗ_5\test1\Debug\test1.vcxproj.GenerateResource.cache
